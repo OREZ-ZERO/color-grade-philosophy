@@ -1,0 +1,605 @@
+{
+  "id": "avdidit-sunlit-pastoral-postcard",
+  "name": "Sunlit Pastoral Postcard / 晴日牧场明信片",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:099937193ab119f26219895d521090fa06f1a1f45241efe43ea07d754f168d26",
+  "description": "A bright pastoral landscape grade with high-key daylight, yellow-green fields, pale cyan skies, soft mountains, and calm postcard clarity.",
+  "tags": [
+    "landscape",
+    "pastoral",
+    "daylight",
+    "yellow-green",
+    "cyan-sky",
+    "postcard"
+  ],
+  "mood": [
+    "open",
+    "clean",
+    "calm",
+    "pastoral",
+    "sunny"
+  ],
+  "scene_fit": [
+    "grassland landscape",
+    "rural travel",
+    "pasture with animals",
+    "mountain valley daylight",
+    "wide open countryside"
+  ],
+  "avoid_scenes": [
+    "night",
+    "low-key portrait",
+    "dense forest",
+    "urban neon",
+    "studio product"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 1458,
+      "height": 1920,
+      "aspect_ratio": 0.759
+    },
+    "luminance": {
+      "mean": 0.711,
+      "p01": 0.332,
+      "p10": 0.558,
+      "p50": 0.715,
+      "p90": 0.856,
+      "p99": 0.911
+    },
+    "saturation": {
+      "mean": 0.311,
+      "median": 0.195,
+      "p90": 0.663
+    },
+    "hue_bias": {
+      "red_orange": 0.008,
+      "yellow": 0.735,
+      "green": 0.088,
+      "cyan_blue": 0.169,
+      "magenta": 0.0
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.016,
+      "high_frequency_p95": 0.0588
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#b6c8b2",
+        "luminance_mean": 0.763,
+        "luminance_p10": 0.633,
+        "luminance_p90": 0.884,
+        "saturation_mean": 0.228,
+        "dominants": [
+          {
+            "hex": "#a5cdce",
+            "rgb": [
+              165,
+              205,
+              206
+            ],
+            "hue": 181.5,
+            "saturation": 0.199,
+            "value": 0.808,
+            "luminance": 0.771,
+            "weight": 0.4419
+          },
+          {
+            "hex": "#d6dfd5",
+            "rgb": [
+              214,
+              223,
+              213
+            ],
+            "hue": 114.0,
+            "saturation": 0.045,
+            "value": 0.875,
+            "luminance": 0.864,
+            "weight": 0.3143
+          },
+          {
+            "hex": "#c6b65f",
+            "rgb": [
+              198,
+              182,
+              95
+            ],
+            "hue": 50.7,
+            "saturation": 0.52,
+            "value": 0.776,
+            "luminance": 0.702,
+            "weight": 0.0918
+          },
+          {
+            "hex": "#b0a45a",
+            "rgb": [
+              176,
+              164,
+              90
+            ],
+            "hue": 51.6,
+            "saturation": 0.489,
+            "value": 0.69,
+            "luminance": 0.632,
+            "weight": 0.0888
+          },
+          {
+            "hex": "#96a99f",
+            "rgb": [
+              150,
+              169,
+              159
+            ],
+            "hue": 148.4,
+            "saturation": 0.112,
+            "value": 0.663,
+            "luminance": 0.644,
+            "weight": 0.0633
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#b0b781",
+        "luminance_mean": 0.697,
+        "luminance_p10": 0.549,
+        "luminance_p90": 0.819,
+        "saturation_mean": 0.394,
+        "dominants": [
+          {
+            "hex": "#b1cdc8",
+            "rgb": [
+              177,
+              205,
+              200
+            ],
+            "hue": 169.3,
+            "saturation": 0.137,
+            "value": 0.804,
+            "luminance": 0.779,
+            "weight": 0.3794
+          },
+          {
+            "hex": "#9d9a2f",
+            "rgb": [
+              157,
+              154,
+              47
+            ],
+            "hue": 58.4,
+            "saturation": 0.701,
+            "value": 0.616,
+            "luminance": 0.576,
+            "weight": 0.2566
+          },
+          {
+            "hex": "#b2a64a",
+            "rgb": [
+              178,
+              166,
+              74
+            ],
+            "hue": 53.1,
+            "saturation": 0.584,
+            "value": 0.698,
+            "luminance": 0.635,
+            "weight": 0.1569
+          },
+          {
+            "hex": "#cbd7cc",
+            "rgb": [
+              203,
+              215,
+              204
+            ],
+            "hue": 125.0,
+            "saturation": 0.056,
+            "value": 0.843,
+            "luminance": 0.83,
+            "weight": 0.1458
+          },
+          {
+            "hex": "#c4b453",
+            "rgb": [
+              196,
+              180,
+              83
+            ],
+            "hue": 51.5,
+            "saturation": 0.577,
+            "value": 0.769,
+            "luminance": 0.692,
+            "weight": 0.0612
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#aeb083",
+        "luminance_mean": 0.675,
+        "luminance_p10": 0.541,
+        "luminance_p90": 0.851,
+        "saturation_mean": 0.306,
+        "dominants": [
+          {
+            "hex": "#a9a25e",
+            "rgb": [
+              169,
+              162,
+              94
+            ],
+            "hue": 54.4,
+            "saturation": 0.444,
+            "value": 0.663,
+            "luminance": 0.622,
+            "weight": 0.4006
+          },
+          {
+            "hex": "#d5d9cb",
+            "rgb": [
+              213,
+              217,
+              203
+            ],
+            "hue": 77.1,
+            "saturation": 0.065,
+            "value": 0.851,
+            "luminance": 0.844,
+            "weight": 0.2603
+          },
+          {
+            "hex": "#9cad9b",
+            "rgb": [
+              156,
+              173,
+              155
+            ],
+            "hue": 116.7,
+            "saturation": 0.104,
+            "value": 0.678,
+            "luminance": 0.659,
+            "weight": 0.1959
+          },
+          {
+            "hex": "#c3b256",
+            "rgb": [
+              195,
+              178,
+              86
+            ],
+            "hue": 50.6,
+            "saturation": 0.559,
+            "value": 0.765,
+            "luminance": 0.686,
+            "weight": 0.0744
+          },
+          {
+            "hex": "#a99b34",
+            "rgb": [
+              169,
+              155,
+              52
+            ],
+            "hue": 52.8,
+            "saturation": 0.692,
+            "value": 0.663,
+            "luminance": 0.59,
+            "weight": 0.0688
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#b1b98e",
+        "luminance_mean": 0.706,
+        "luminance_p10": 0.555,
+        "luminance_p90": 0.852,
+        "saturation_mean": 0.3,
+        "dominants": [
+          {
+            "hex": "#d3dacc",
+            "rgb": [
+              211,
+              218,
+              204
+            ],
+            "hue": 90.0,
+            "saturation": 0.064,
+            "value": 0.855,
+            "luminance": 0.845,
+            "weight": 0.4245
+          },
+          {
+            "hex": "#b2cec9",
+            "rgb": [
+              178,
+              206,
+              201
+            ],
+            "hue": 169.3,
+            "saturation": 0.136,
+            "value": 0.808,
+            "luminance": 0.783,
+            "weight": 0.1706
+          },
+          {
+            "hex": "#98aa98",
+            "rgb": [
+              152,
+              170,
+              152
+            ],
+            "hue": 120.0,
+            "saturation": 0.106,
+            "value": 0.667,
+            "luminance": 0.647,
+            "weight": 0.1539
+          },
+          {
+            "hex": "#9c992f",
+            "rgb": [
+              156,
+              153,
+              47
+            ],
+            "hue": 58.3,
+            "saturation": 0.699,
+            "value": 0.612,
+            "luminance": 0.572,
+            "weight": 0.1297
+          },
+          {
+            "hex": "#ada457",
+            "rgb": [
+              173,
+              164,
+              87
+            ],
+            "hue": 53.7,
+            "saturation": 0.497,
+            "value": 0.678,
+            "luminance": 0.629,
+            "weight": 0.1213
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Make open countryside feel calm, approachable, and sunlit, like a clean travel postcard rather than a dramatic landscape.",
+    "contrast_strategy": "Lift the image into high-key daylight, keep shadows soft, and avoid heavy atmospheric drama.",
+    "color_strategy": "Favor yellow-green land, pale cyan sky, light grey-blue mountains, and small warm animal or human accents.",
+    "subject_strategy": "Treat people, animals, fences, houses, and roads as small anchors inside a wide pastoral field; do not over-emphasize them with contrast.",
+    "texture_strategy": "Clean but not sterile; moderate detail, low grain, and gentle haze in distance.",
+    "do_not_literalize": "Do not apply this to scenes that need mystery or depth. The style is open-air pastoral clarity, not generic brightness."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Pale cyan-blue, bright but not saturated cobalt.",
+    "water": "Light cyan with calm reflections; keep pastoral softness.",
+    "grass": "Yellow-green or straw-green under sun; avoid emerald/neon intensity.",
+    "forest": "Soft blue-green distance, lower contrast than foreground fields.",
+    "mountain": "Pale grey-blue with gentle haze; reduce harsh rock contrast.",
+    "skin": "Small warm natural accents if people are present; avoid beauty-retouch warmth.",
+    "white_clothing": "Clean daylight white with slight warmth, not clipped.",
+    "shadow": "Soft green/blue shadows with lifted black point.",
+    "highlight": "High-key sunlight, broad and clean, but retain cloud/grass texture."
+  },
+  "compatibility": {
+    "best_for": [
+      "open grassland",
+      "pasture",
+      "mountain valley daylight",
+      "countryside road trips"
+    ],
+    "also_works_for": [
+      "beach daylight landscapes",
+      "rural towns",
+      "wide travel scenes"
+    ],
+    "weak_for": [
+      "close dark portraits",
+      "moody interiors",
+      "dense woodland",
+      "night city"
+    ],
+    "reject_for": [
+      "documents",
+      "medical image",
+      "ID photo",
+      "product color accuracy"
+    ],
+    "requires": {
+      "has_open_daylight": true,
+      "has_land_or_sky_field": true,
+      "benefits_from_calm_clarity": true,
+      "needs_depth_anchor": "distant mountain, fence, road, animal, house, or horizon"
+    },
+    "risks": [
+      "flattening dramatic light",
+      "making grass too yellow",
+      "washing out clouds or distant mountains",
+      "making portraits feel impersonal"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#d4dcd0",
+      "rgb": [
+        212,
+        220,
+        208
+      ],
+      "hue": 100.0,
+      "saturation": 0.055,
+      "value": 0.863,
+      "luminance": 0.853,
+      "weight": 0.271
+    },
+    {
+      "hex": "#abcdcb",
+      "rgb": [
+        171,
+        205,
+        203
+      ],
+      "hue": 176.5,
+      "saturation": 0.166,
+      "value": 0.804,
+      "luminance": 0.775,
+      "weight": 0.2282
+    },
+    {
+      "hex": "#ada458",
+      "rgb": [
+        173,
+        164,
+        88
+      ],
+      "hue": 53.6,
+      "saturation": 0.491,
+      "value": 0.678,
+      "luminance": 0.629,
+      "weight": 0.1693
+    },
+    {
+      "hex": "#a09930",
+      "rgb": [
+        160,
+        153,
+        48
+      ],
+      "hue": 56.2,
+      "saturation": 0.7,
+      "value": 0.627,
+      "luminance": 0.576,
+      "weight": 0.1053
+    },
+    {
+      "hex": "#9bac9c",
+      "rgb": [
+        155,
+        172,
+        156
+      ],
+      "hue": 123.5,
+      "saturation": 0.099,
+      "value": 0.675,
+      "luminance": 0.656,
+      "weight": 0.0889
+    },
+    {
+      "hex": "#c5b55a",
+      "rgb": [
+        197,
+        181,
+        90
+      ],
+      "hue": 51.0,
+      "saturation": 0.543,
+      "value": 0.773,
+      "luminance": 0.697,
+      "weight": 0.0819
+    },
+    {
+      "hex": "#636b21",
+      "rgb": [
+        99,
+        107,
+        33
+      ],
+      "hue": 66.5,
+      "saturation": 0.692,
+      "value": 0.42,
+      "luminance": 0.392,
+      "weight": 0.0137
+    },
+    {
+      "hex": "#759790",
+      "rgb": [
+        117,
+        151,
+        144
+      ],
+      "hue": 167.6,
+      "saturation": 0.225,
+      "value": 0.592,
+      "luminance": 0.562,
+      "weight": 0.01
+    },
+    {
+      "hex": "#74886a",
+      "rgb": [
+        116,
+        136,
+        106
+      ],
+      "hue": 100.0,
+      "saturation": 0.221,
+      "value": 0.533,
+      "luminance": 0.508,
+      "weight": 0.0097
+    },
+    {
+      "hex": "#cec264",
+      "rgb": [
+        206,
+        194,
+        100
+      ],
+      "hue": 53.2,
+      "saturation": 0.515,
+      "value": 0.808,
+      "luminance": 0.744,
+      "weight": 0.0088
+    },
+    {
+      "hex": "#84bdc6",
+      "rgb": [
+        132,
+        189,
+        198
+      ],
+      "hue": 188.2,
+      "saturation": 0.333,
+      "value": 0.776,
+      "luminance": 0.696,
+      "weight": 0.0067
+    },
+    {
+      "hex": "#61765a",
+      "rgb": [
+        97,
+        118,
+        90
+      ],
+      "hue": 105.0,
+      "saturation": 0.237,
+      "value": 0.463,
+      "luminance": 0.437,
+      "weight": 0.0065
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a bright pastoral postcard grade: high-key daylight, pale cyan sky, yellow-green fields, soft blue-grey mountains, lifted gentle shadows, small warm natural accents, clean calm travel-landscape clarity.",
+    "negative": "Do not change composition, season, weather, objects, people, animals, or camera angle. Do not make grass neon, sky deep cobalt, or shadows muddy.",
+    "strength_default": 0.57,
+    "strength_range": [
+      0.38,
+      0.72
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "pastoral daylight",
+      "yellow green field",
+      "cyan sky",
+      "postcard landscape",
+      "open countryside"
+    ],
+    "embedding_text": "Bright calm pastoral postcard landscape grade with yellow-green fields, pale cyan sky, soft blue-grey mountains, lifted shadows and open daylight clarity."
+  },
+  "source_images": [
+    "reference.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}

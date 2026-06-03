@@ -1,0 +1,602 @@
+{
+  "id": "deniz-sabuncu-sunlit-cobalt-portrait",
+  "name": "Sunlit Cobalt Portrait / 日照钴蓝肖像",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:6154aa5272ff1b7fcddec2bcef09266eff663e5c5f005fb0214e8e1f1c50ece5",
+  "description": "A graphic daylight portrait grade that uses an intense cobalt-blue environment as the main color field, balanced by warm beige fabric and believable skin.",
+  "tags": [
+    "daylight",
+    "portrait",
+    "cobalt-blue",
+    "graphic",
+    "high-saturation",
+    "minimal-background"
+  ],
+  "mood": [
+    "clear",
+    "playful",
+    "sunstruck",
+    "graphic",
+    "confident"
+  ],
+  "scene_fit": [
+    "blue-sky portrait",
+    "minimal travel portrait",
+    "fashion portrait with clean background",
+    "sunny outdoor editorial"
+  ],
+  "avoid_scenes": [
+    "low-key interior",
+    "forest portrait without sky",
+    "food",
+    "documents",
+    "color-critical product"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 1055,
+      "height": 1406,
+      "aspect_ratio": 0.75
+    },
+    "luminance": {
+      "mean": 0.554,
+      "p01": 0.219,
+      "p10": 0.255,
+      "p50": 0.513,
+      "p90": 0.887,
+      "p99": 0.957
+    },
+    "saturation": {
+      "mean": 0.535,
+      "median": 0.457,
+      "p90": 1.0
+    },
+    "hue_bias": {
+      "red_orange": 0.164,
+      "yellow": 0.0,
+      "green": 0.0,
+      "cyan_blue": 0.836,
+      "magenta": 0.0
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.0029,
+      "high_frequency_p95": 0.0118
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#0f5994",
+        "luminance_mean": 0.304,
+        "luminance_p10": 0.237,
+        "luminance_p90": 0.302,
+        "saturation_mean": 0.932,
+        "dominants": [
+          {
+            "hex": "#01508e",
+            "rgb": [
+              1,
+              80,
+              142
+            ],
+            "hue": 206.4,
+            "saturation": 0.993,
+            "value": 0.557,
+            "luminance": 0.265,
+            "weight": 0.9037
+          },
+          {
+            "hex": "#ebeaeb",
+            "rgb": [
+              235,
+              234,
+              235
+            ],
+            "hue": 300.0,
+            "saturation": 0.004,
+            "value": 0.922,
+            "luminance": 0.919,
+            "weight": 0.051
+          },
+          {
+            "hex": "#01417e",
+            "rgb": [
+              1,
+              65,
+              126
+            ],
+            "hue": 209.3,
+            "saturation": 0.992,
+            "value": 0.494,
+            "luminance": 0.219,
+            "weight": 0.0375
+          },
+          {
+            "hex": "#b4c6d6",
+            "rgb": [
+              180,
+              198,
+              214
+            ],
+            "hue": 208.2,
+            "saturation": 0.159,
+            "value": 0.839,
+            "luminance": 0.766,
+            "weight": 0.0041
+          },
+          {
+            "hex": "#99b6cc",
+            "rgb": [
+              153,
+              182,
+              204
+            ],
+            "hue": 205.9,
+            "saturation": 0.25,
+            "value": 0.8,
+            "luminance": 0.696,
+            "weight": 0.0037
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#708fa4",
+        "luminance_mean": 0.541,
+        "luminance_p10": 0.3,
+        "luminance_p90": 0.88,
+        "saturation_mean": 0.547,
+        "dominants": [
+          {
+            "hex": "#0162a0",
+            "rgb": [
+              1,
+              98,
+              160
+            ],
+            "hue": 203.4,
+            "saturation": 0.994,
+            "value": 0.627,
+            "luminance": 0.321,
+            "weight": 0.5416
+          },
+          {
+            "hex": "#e4dcda",
+            "rgb": [
+              228,
+              220,
+              218
+            ],
+            "hue": 12.0,
+            "saturation": 0.044,
+            "value": 0.894,
+            "luminance": 0.869,
+            "weight": 0.291
+          },
+          {
+            "hex": "#b78666",
+            "rgb": [
+              183,
+              134,
+              102
+            ],
+            "hue": 23.7,
+            "saturation": 0.443,
+            "value": 0.718,
+            "luminance": 0.557,
+            "weight": 0.0737
+          },
+          {
+            "hex": "#a4765a",
+            "rgb": [
+              164,
+              118,
+              90
+            ],
+            "hue": 22.7,
+            "saturation": 0.451,
+            "value": 0.643,
+            "luminance": 0.493,
+            "weight": 0.0651
+          },
+          {
+            "hex": "#a69994",
+            "rgb": [
+              166,
+              153,
+              148
+            ],
+            "hue": 16.7,
+            "saturation": 0.108,
+            "value": 0.651,
+            "luminance": 0.609,
+            "weight": 0.0286
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#d7ccc7",
+        "luminance_mean": 0.808,
+        "luminance_p10": 0.69,
+        "luminance_p90": 0.893,
+        "saturation_mean": 0.138,
+        "dominants": [
+          {
+            "hex": "#e7d9d1",
+            "rgb": [
+              231,
+              217,
+              209
+            ],
+            "hue": 21.8,
+            "saturation": 0.095,
+            "value": 0.906,
+            "luminance": 0.86,
+            "weight": 0.7368
+          },
+          {
+            "hex": "#cab8b0",
+            "rgb": [
+              202,
+              184,
+              176
+            ],
+            "hue": 18.5,
+            "saturation": 0.129,
+            "value": 0.792,
+            "luminance": 0.734,
+            "weight": 0.0969
+          },
+          {
+            "hex": "#d4c3bb",
+            "rgb": [
+              212,
+              195,
+              187
+            ],
+            "hue": 19.2,
+            "saturation": 0.118,
+            "value": 0.831,
+            "luminance": 0.777,
+            "weight": 0.0761
+          },
+          {
+            "hex": "#b2a59e",
+            "rgb": [
+              178,
+              165,
+              158
+            ],
+            "hue": 21.0,
+            "saturation": 0.112,
+            "value": 0.698,
+            "luminance": 0.656,
+            "weight": 0.0554
+          },
+          {
+            "hex": "#0475ab",
+            "rgb": [
+              4,
+              117,
+              171
+            ],
+            "hue": 199.4,
+            "saturation": 0.977,
+            "value": 0.671,
+            "luminance": 0.38,
+            "weight": 0.0348
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#b7b4b5",
+        "luminance_mean": 0.709,
+        "luminance_p10": 0.289,
+        "luminance_p90": 0.907,
+        "saturation_mean": 0.278,
+        "dominants": [
+          {
+            "hex": "#eae0da",
+            "rgb": [
+              234,
+              224,
+              218
+            ],
+            "hue": 22.5,
+            "saturation": 0.068,
+            "value": 0.918,
+            "luminance": 0.885,
+            "weight": 0.6989
+          },
+          {
+            "hex": "#025796",
+            "rgb": [
+              2,
+              87,
+              150
+            ],
+            "hue": 205.5,
+            "saturation": 0.987,
+            "value": 0.588,
+            "luminance": 0.288,
+            "weight": 0.1383
+          },
+          {
+            "hex": "#b78665",
+            "rgb": [
+              183,
+              134,
+              101
+            ],
+            "hue": 24.1,
+            "saturation": 0.448,
+            "value": 0.718,
+            "luminance": 0.557,
+            "weight": 0.0736
+          },
+          {
+            "hex": "#a6765a",
+            "rgb": [
+              166,
+              118,
+              90
+            ],
+            "hue": 22.1,
+            "saturation": 0.458,
+            "value": 0.651,
+            "luminance": 0.495,
+            "weight": 0.0612
+          },
+          {
+            "hex": "#a59995",
+            "rgb": [
+              165,
+              153,
+              149
+            ],
+            "hue": 15.0,
+            "saturation": 0.097,
+            "value": 0.647,
+            "luminance": 0.609,
+            "weight": 0.0279
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Make the frame feel bright, direct, and graphic, with a single dominant environmental color carrying most of the visual energy.",
+    "contrast_strategy": "Use clear daylight separation and strong color contrast rather than heavy filmic shadow crush; highlights stay clean and open.",
+    "color_strategy": "Let a saturated cobalt/cyan-blue field dominate the environment, then stabilize the subject with warm beige, tan, and peach tones.",
+    "subject_strategy": "Protect skin, hair, hats, and light clothing from becoming too blue; they should remain warm-neutral anchors against the blue field.",
+    "texture_strategy": "Keep the image clean and sharp with very low grain; the effect is more graphic daylight than nostalgic film.",
+    "do_not_literalize": "Do not turn every target background blue. Reserve cobalt for skies, painted walls, water, or negative spaces that can plausibly carry blue."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Can become the strongest saturated cobalt/cyan-blue area if the scene is sunny and graphic.",
+    "water": "Can receive a clean cyan-blue treatment, but keep natural reflections and avoid neon.",
+    "grass": "Preserve green identity; reduce saturation slightly if needed so the sky or negative space remains the main color field.",
+    "forest": "Keep as dark green/blue-green support, not pure cobalt.",
+    "mountain": "Cool toward clear blue-grey only when the scene already has strong daylight haze.",
+    "skin": "Preserve warm peach or light tan; avoid cyan cast.",
+    "white_clothing": "Render as warm linen/off-white with open highlights, not sterile blue-white.",
+    "shadow": "Keep shadows clean and readable, slightly cool but not crushed.",
+    "highlight": "Bright, dry, and sunlit; avoid creamy haze unless the target already has it."
+  },
+  "compatibility": {
+    "best_for": [
+      "outdoor daylight portraits with sky",
+      "minimal fashion/travel portraits",
+      "scenes with one large color field"
+    ],
+    "also_works_for": [
+      "beach portraits",
+      "desert portraits with blue sky",
+      "urban portraits against blue walls"
+    ],
+    "weak_for": [
+      "complex green landscapes",
+      "overcast scenes",
+      "indoor tungsten portraits"
+    ],
+    "reject_for": [
+      "document scan",
+      "medical image",
+      "ID photo",
+      "color-critical product",
+      "food photography"
+    ],
+    "requires": {
+      "has_clear_daylight": true,
+      "has_large_coolable_background": true,
+      "benefits_from_graphic_simplicity": true,
+      "needs_subject_anchor": "warm skin, beige fabric, hat, or another neutral human/object anchor"
+    },
+    "risks": [
+      "over-blueing foliage or skin",
+      "making a documentary scene feel artificially commercial",
+      "losing subtle atmosphere through excessive saturation"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#015695",
+      "rgb": [
+        1,
+        86,
+        149
+      ],
+      "hue": 205.5,
+      "saturation": 0.993,
+      "value": 0.584,
+      "luminance": 0.284,
+      "weight": 0.4672
+    },
+    {
+      "hex": "#e7dbd4",
+      "rgb": [
+        231,
+        219,
+        212
+      ],
+      "hue": 22.1,
+      "saturation": 0.082,
+      "value": 0.906,
+      "luminance": 0.867,
+      "weight": 0.3592
+    },
+    {
+      "hex": "#cbb7ad",
+      "rgb": [
+        203,
+        183,
+        173
+      ],
+      "hue": 20.0,
+      "saturation": 0.148,
+      "value": 0.796,
+      "luminance": 0.731,
+      "weight": 0.0371
+    },
+    {
+      "hex": "#aea19b",
+      "rgb": [
+        174,
+        161,
+        155
+      ],
+      "hue": 18.9,
+      "saturation": 0.109,
+      "value": 0.682,
+      "luminance": 0.641,
+      "weight": 0.0281
+    },
+    {
+      "hex": "#d4c3bb",
+      "rgb": [
+        212,
+        195,
+        187
+      ],
+      "hue": 19.2,
+      "saturation": 0.118,
+      "value": 0.831,
+      "luminance": 0.777,
+      "weight": 0.027
+    },
+    {
+      "hex": "#a37457",
+      "rgb": [
+        163,
+        116,
+        87
+      ],
+      "hue": 22.9,
+      "saturation": 0.466,
+      "value": 0.639,
+      "luminance": 0.486,
+      "weight": 0.0229
+    },
+    {
+      "hex": "#b58667",
+      "rgb": [
+        181,
+        134,
+        103
+      ],
+      "hue": 23.8,
+      "saturation": 0.431,
+      "value": 0.71,
+      "luminance": 0.556,
+      "weight": 0.0168
+    },
+    {
+      "hex": "#c79370",
+      "rgb": [
+        199,
+        147,
+        112
+      ],
+      "hue": 24.1,
+      "saturation": 0.437,
+      "value": 0.78,
+      "luminance": 0.61,
+      "weight": 0.013
+    },
+    {
+      "hex": "#02427d",
+      "rgb": [
+        2,
+        66,
+        125
+      ],
+      "hue": 208.8,
+      "saturation": 0.984,
+      "value": 0.49,
+      "luminance": 0.222,
+      "weight": 0.0124
+    },
+    {
+      "hex": "#6a5e59",
+      "rgb": [
+        106,
+        94,
+        89
+      ],
+      "hue": 17.6,
+      "saturation": 0.16,
+      "value": 0.416,
+      "luminance": 0.377,
+      "weight": 0.0075
+    },
+    {
+      "hex": "#b4c6d6",
+      "rgb": [
+        180,
+        198,
+        214
+      ],
+      "hue": 208.2,
+      "saturation": 0.159,
+      "value": 0.839,
+      "luminance": 0.766,
+      "weight": 0.0052
+    },
+    {
+      "hex": "#98b6cc",
+      "rgb": [
+        152,
+        182,
+        204
+      ],
+      "hue": 205.4,
+      "saturation": 0.255,
+      "value": 0.8,
+      "luminance": 0.695,
+      "weight": 0.0038
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a clean graphic daylight color grade: a strong cobalt/cyan-blue environmental field where semantically appropriate, warm beige fabric and peach skin preserved, crisp sunlight, open highlights, readable shadows, minimal grain.",
+    "negative": "Do not change composition, identity, pose, objects, weather, or scene. Do not make skin, grass, or all shadows blue. Do not add surreal saturation or plastic commercial retouching.",
+    "strength_default": 0.58,
+    "strength_range": [
+      0.35,
+      0.72
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "cobalt sky",
+      "graphic portrait",
+      "sunny blue field",
+      "warm beige subject",
+      "clean daylight"
+    ],
+    "embedding_text": "Graphic sunny outdoor portrait grade with saturated cobalt-blue environment, warm beige clothing, protected peach skin, crisp daylight and very low grain."
+  },
+  "source_images": [
+    "reference.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}

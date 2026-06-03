@@ -1,0 +1,606 @@
+{
+  "id": "chen-yonghua-amber-shadow-film",
+  "name": "Amber Shadow Film / 琥珀暗影胶片",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:b5339455cf042eaddaef618fb8d67d6cc6e8e862ba9ad373216bd8d23c4d1e66",
+  "description": "A raw low-key portrait grade with amber skin, yellow-red light pressure, deep brown-black shadows, and visible film texture.",
+  "tags": [
+    "portrait",
+    "low-key",
+    "amber",
+    "flash",
+    "film-grain",
+    "intimate"
+  ],
+  "mood": [
+    "intimate",
+    "raw",
+    "nocturnal",
+    "claustrophobic",
+    "emotional"
+  ],
+  "scene_fit": [
+    "close portrait",
+    "night portrait",
+    "direct flash portrait",
+    "dramatic window-light face",
+    "music/editorial portrait"
+  ],
+  "avoid_scenes": [
+    "wide daylight landscape",
+    "pastoral travel",
+    "clean commercial portrait",
+    "food",
+    "product catalog"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 755,
+      "height": 1006,
+      "aspect_ratio": 0.75
+    },
+    "luminance": {
+      "mean": 0.295,
+      "p01": 0.022,
+      "p10": 0.061,
+      "p50": 0.137,
+      "p90": 0.812,
+      "p99": 0.907
+    },
+    "saturation": {
+      "mean": 0.469,
+      "median": 0.438,
+      "p90": 0.8
+    },
+    "hue_bias": {
+      "red_orange": 0.398,
+      "yellow": 0.602,
+      "green": 0.0,
+      "cyan_blue": 0.0,
+      "magenta": 0.0
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.026,
+      "high_frequency_p95": 0.0784
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#2c2216",
+        "luminance_mean": 0.139,
+        "luminance_p10": 0.081,
+        "luminance_p90": 0.26,
+        "saturation_mean": 0.398,
+        "dominants": [
+          {
+            "hex": "#1e1812",
+            "rgb": [
+              30,
+              24,
+              18
+            ],
+            "hue": 30.0,
+            "saturation": 0.4,
+            "value": 0.118,
+            "luminance": 0.097,
+            "weight": 0.8822
+          },
+          {
+            "hex": "#523319",
+            "rgb": [
+              82,
+              51,
+              25
+            ],
+            "hue": 27.4,
+            "saturation": 0.695,
+            "value": 0.322,
+            "luminance": 0.218,
+            "weight": 0.0411
+          },
+          {
+            "hex": "#5f4e27",
+            "rgb": [
+              95,
+              78,
+              39
+            ],
+            "hue": 41.8,
+            "saturation": 0.589,
+            "value": 0.373,
+            "luminance": 0.309,
+            "weight": 0.0353
+          },
+          {
+            "hex": "#9b601c",
+            "rgb": [
+              155,
+              96,
+              28
+            ],
+            "hue": 32.1,
+            "saturation": 0.819,
+            "value": 0.608,
+            "luminance": 0.406,
+            "weight": 0.0332
+          },
+          {
+            "hex": "#c9942e",
+            "rgb": [
+              201,
+              148,
+              46
+            ],
+            "hue": 39.5,
+            "saturation": 0.771,
+            "value": 0.788,
+            "luminance": 0.596,
+            "weight": 0.0082
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#95805a",
+        "luminance_mean": 0.508,
+        "luminance_p10": 0.089,
+        "luminance_p90": 0.854,
+        "saturation_mean": 0.419,
+        "dominants": [
+          {
+            "hex": "#201712",
+            "rgb": [
+              32,
+              23,
+              18
+            ],
+            "hue": 21.4,
+            "saturation": 0.438,
+            "value": 0.125,
+            "luminance": 0.096,
+            "weight": 0.4695
+          },
+          {
+            "hex": "#dfd0a7",
+            "rgb": [
+              223,
+              208,
+              167
+            ],
+            "hue": 43.9,
+            "saturation": 0.251,
+            "value": 0.875,
+            "luminance": 0.817,
+            "weight": 0.2601
+          },
+          {
+            "hex": "#e2dccd",
+            "rgb": [
+              226,
+              220,
+              205
+            ],
+            "hue": 42.9,
+            "saturation": 0.093,
+            "value": 0.886,
+            "luminance": 0.864,
+            "weight": 0.1121
+          },
+          {
+            "hex": "#d4b157",
+            "rgb": [
+              212,
+              177,
+              87
+            ],
+            "hue": 43.2,
+            "saturation": 0.59,
+            "value": 0.831,
+            "luminance": 0.698,
+            "weight": 0.092
+          },
+          {
+            "hex": "#9f661b",
+            "rgb": [
+              159,
+              102,
+              27
+            ],
+            "hue": 34.1,
+            "saturation": 0.83,
+            "value": 0.624,
+            "luminance": 0.426,
+            "weight": 0.0664
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#4d3a25",
+        "luminance_mean": 0.238,
+        "luminance_p10": 0.087,
+        "luminance_p90": 0.701,
+        "saturation_mean": 0.516,
+        "dominants": [
+          {
+            "hex": "#241812",
+            "rgb": [
+              36,
+              24,
+              18
+            ],
+            "hue": 20.0,
+            "saturation": 0.5,
+            "value": 0.141,
+            "luminance": 0.102,
+            "weight": 0.7191
+          },
+          {
+            "hex": "#512c16",
+            "rgb": [
+              81,
+              44,
+              22
+            ],
+            "hue": 22.4,
+            "saturation": 0.728,
+            "value": 0.318,
+            "luminance": 0.197,
+            "weight": 0.1471
+          },
+          {
+            "hex": "#dccea5",
+            "rgb": [
+              220,
+              206,
+              165
+            ],
+            "hue": 44.7,
+            "saturation": 0.25,
+            "value": 0.863,
+            "luminance": 0.808,
+            "weight": 0.0588
+          },
+          {
+            "hex": "#6b541c",
+            "rgb": [
+              107,
+              84,
+              28
+            ],
+            "hue": 42.5,
+            "saturation": 0.738,
+            "value": 0.42,
+            "luminance": 0.333,
+            "weight": 0.0387
+          },
+          {
+            "hex": "#96671f",
+            "rgb": [
+              150,
+              103,
+              31
+            ],
+            "hue": 36.3,
+            "saturation": 0.793,
+            "value": 0.588,
+            "luminance": 0.423,
+            "weight": 0.0362
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#a68e5f",
+        "luminance_mean": 0.562,
+        "luminance_p10": 0.122,
+        "luminance_p90": 0.848,
+        "saturation_mean": 0.473,
+        "dominants": [
+          {
+            "hex": "#decfa6",
+            "rgb": [
+              222,
+              207,
+              166
+            ],
+            "hue": 43.9,
+            "saturation": 0.252,
+            "value": 0.871,
+            "luminance": 0.813,
+            "weight": 0.5623
+          },
+          {
+            "hex": "#271c13",
+            "rgb": [
+              39,
+              28,
+              19
+            ],
+            "hue": 27.0,
+            "saturation": 0.513,
+            "value": 0.153,
+            "luminance": 0.116,
+            "weight": 0.1513
+          },
+          {
+            "hex": "#d4b35a",
+            "rgb": [
+              212,
+              179,
+              90
+            ],
+            "hue": 43.8,
+            "saturation": 0.575,
+            "value": 0.831,
+            "luminance": 0.704,
+            "weight": 0.1024
+          },
+          {
+            "hex": "#563016",
+            "rgb": [
+              86,
+              48,
+              22
+            ],
+            "hue": 24.4,
+            "saturation": 0.744,
+            "value": 0.337,
+            "luminance": 0.213,
+            "weight": 0.1018
+          },
+          {
+            "hex": "#9c661d",
+            "rgb": [
+              156,
+              102,
+              29
+            ],
+            "hue": 34.5,
+            "saturation": 0.814,
+            "value": 0.612,
+            "luminance": 0.424,
+            "weight": 0.0822
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Create compressed intimacy: the viewer feels close to the subject, with warm light pressing against darkness.",
+    "contrast_strategy": "Use extreme tonal separation: deep brown-black background and a narrow warm highlight zone on skin.",
+    "color_strategy": "Restrict the palette to amber, ochre, red-brown, and black; remove competing cool colors.",
+    "subject_strategy": "The face is the only emotional light source. Preserve eyes, lips, and skin contour even when shadows become heavy.",
+    "texture_strategy": "Visible film grain and imperfect softness are part of the feeling; avoid clean glossy retouching.",
+    "do_not_literalize": "Do not pour amber over every target. This look needs a believable warm light source and surrounding darkness."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Generally not suitable. If present, suppress importance or use inspired-only warmth near the subject.",
+    "water": "Usually avoid; amber water will look false unless it is night/reflection light.",
+    "grass": "Not a direct target; keep dark olive/brown only if the scene is already low-key.",
+    "forest": "Can become deep brown-black atmospheric shadow if a portrait subject is present.",
+    "mountain": "Use inspired-only warm-shadow contrast; avoid full amber conversion.",
+    "skin": "Warm amber/golden but not clipped or waxy; keep facial detail.",
+    "white_clothing": "Cream or tobacco-stained white under warm light, not neutral white.",
+    "shadow": "Deep brown-black with minimal but intentional detail.",
+    "highlight": "Narrow amber/yellow highlight with strong rolloff; avoid broad flat exposure."
+  },
+  "compatibility": {
+    "best_for": [
+      "close low-key portraits",
+      "flash portraits",
+      "night editorial portraits",
+      "dramatic warm side-light"
+    ],
+    "also_works_for": [
+      "concert backstage portraits",
+      "moody interior portraits",
+      "cinematic stills with one warm light"
+    ],
+    "weak_for": [
+      "open landscapes",
+      "daylight travel",
+      "architecture",
+      "pastoral scenes"
+    ],
+    "reject_for": [
+      "documents",
+      "medical image",
+      "ID photo",
+      "product color accuracy",
+      "food photography"
+    ],
+    "requires": {
+      "has_shadow_structure": true,
+      "has_warm_light_source_or_can_believably_receive_one": true,
+      "benefits_from_emotional_pressure": true,
+      "needs_close_subject": "face, hand, body detail, or intimate object"
+    },
+    "risks": [
+      "skin becoming jaundiced",
+      "crushed eyes or facial detail",
+      "false amber cast on landscapes",
+      "turning a clean image into an unintended horror/noir mood"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#201712",
+      "rgb": [
+        32,
+        23,
+        18
+      ],
+      "hue": 21.4,
+      "saturation": 0.438,
+      "value": 0.125,
+      "luminance": 0.096,
+      "weight": 0.6049
+    },
+    {
+      "hex": "#decfa6",
+      "rgb": [
+        222,
+        207,
+        166
+      ],
+      "hue": 43.9,
+      "saturation": 0.252,
+      "value": 0.871,
+      "luminance": 0.813,
+      "weight": 0.0973
+    },
+    {
+      "hex": "#522e17",
+      "rgb": [
+        82,
+        46,
+        23
+      ],
+      "hue": 23.4,
+      "saturation": 0.72,
+      "value": 0.322,
+      "luminance": 0.204,
+      "weight": 0.0735
+    },
+    {
+      "hex": "#e6e0cf",
+      "rgb": [
+        230,
+        224,
+        207
+      ],
+      "hue": 44.3,
+      "saturation": 0.1,
+      "value": 0.902,
+      "luminance": 0.879,
+      "weight": 0.0479
+    },
+    {
+      "hex": "#9b651b",
+      "rgb": [
+        155,
+        101,
+        27
+      ],
+      "hue": 34.7,
+      "saturation": 0.826,
+      "value": 0.608,
+      "luminance": 0.42,
+      "weight": 0.044
+    },
+    {
+      "hex": "#d3b059",
+      "rgb": [
+        211,
+        176,
+        89
+      ],
+      "hue": 42.8,
+      "saturation": 0.578,
+      "value": 0.827,
+      "luminance": 0.695,
+      "weight": 0.0395
+    },
+    {
+      "hex": "#684f21",
+      "rgb": [
+        104,
+        79,
+        33
+      ],
+      "hue": 38.9,
+      "saturation": 0.683,
+      "value": 0.408,
+      "luminance": 0.318,
+      "weight": 0.0299
+    },
+    {
+      "hex": "#ca9931",
+      "rgb": [
+        202,
+        153,
+        49
+      ],
+      "hue": 40.8,
+      "saturation": 0.757,
+      "value": 0.792,
+      "luminance": 0.611,
+      "weight": 0.0213
+    },
+    {
+      "hex": "#af892a",
+      "rgb": [
+        175,
+        137,
+        42
+      ],
+      "hue": 42.9,
+      "saturation": 0.76,
+      "value": 0.686,
+      "luminance": 0.542,
+      "weight": 0.0135
+    },
+    {
+      "hex": "#aa9d57",
+      "rgb": [
+        170,
+        157,
+        87
+      ],
+      "hue": 50.6,
+      "saturation": 0.488,
+      "value": 0.667,
+      "luminance": 0.607,
+      "weight": 0.0112
+    },
+    {
+      "hex": "#e2c56f",
+      "rgb": [
+        226,
+        197,
+        111
+      ],
+      "hue": 44.9,
+      "saturation": 0.509,
+      "value": 0.886,
+      "luminance": 0.772,
+      "weight": 0.0093
+    },
+    {
+      "hex": "#cfbb8c",
+      "rgb": [
+        207,
+        187,
+        140
+      ],
+      "hue": 42.1,
+      "saturation": 0.324,
+      "value": 0.812,
+      "luminance": 0.737,
+      "weight": 0.0076
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a raw amber low-key film portrait grade: warm ochre/amber light on the subject, deep brown-black shadows, restrained palette, visible grain, preserved facial detail, intimate direct-light feeling.",
+    "negative": "Do not change identity, pose, expression, objects, or composition. Do not brighten the whole frame. Do not make skin waxy yellow or crush the eyes into unreadable black.",
+    "strength_default": 0.62,
+    "strength_range": [
+      0.35,
+      0.82
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "amber portrait",
+      "low-key film",
+      "warm shadow",
+      "raw close face",
+      "grainy direct light"
+    ],
+    "embedding_text": "Raw intimate low-key portrait grade with amber skin light, deep brown-black shadows, restricted ochre palette, preserved facial detail and visible film grain."
+  },
+  "source_images": [
+    "reference.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}

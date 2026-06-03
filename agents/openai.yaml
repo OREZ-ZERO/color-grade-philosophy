@@ -1,0 +1,4 @@
+interface:
+  display_name: "Color Grade Philosophy"
+  short_description: "Analyze, save, match, and apply color grading philosophies"
+  default_prompt: "Use $color-grade-philosophy to analyze a reference photo's color grade philosophy and apply it to my target photo."

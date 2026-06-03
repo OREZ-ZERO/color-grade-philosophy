@@ -1,0 +1,606 @@
+{
+  "id": "ueda-yoshihiko-cool-green-quiet-portrait",
+  "name": "Cool Green Quiet Portrait / 冷绿静谧肖像",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:d88f6ed8fa7479adcc7d6f3fde7826be20eba0df0128473e9b14101b211315cd",
+  "description": "A restrained natural-light portrait grade with low saturation, cool green atmosphere, soft whites, pale skin, and contemplative quiet.",
+  "tags": [
+    "portrait",
+    "natural-light",
+    "low-saturation",
+    "cool-green",
+    "quiet",
+    "soft"
+  ],
+  "mood": [
+    "quiet",
+    "contemplative",
+    "fragile",
+    "reserved",
+    "breathable"
+  ],
+  "scene_fit": [
+    "quiet garden portrait",
+    "overcast natural-light portrait",
+    "editorial portrait in grass or foliage",
+    "soft window-light portrait"
+  ],
+  "avoid_scenes": [
+    "hyper-saturated fashion",
+    "warm nightlife portrait",
+    "commercial food",
+    "bright blue-sky travel",
+    "product catalog"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 1242,
+      "height": 1652,
+      "aspect_ratio": 0.752
+    },
+    "luminance": {
+      "mean": 0.519,
+      "p01": 0.1,
+      "p10": 0.143,
+      "p50": 0.544,
+      "p90": 0.828,
+      "p99": 0.908
+    },
+    "saturation": {
+      "mean": 0.164,
+      "median": 0.156,
+      "p90": 0.298
+    },
+    "hue_bias": {
+      "red_orange": 0.159,
+      "yellow": 0.039,
+      "green": 0.594,
+      "cyan_blue": 0.177,
+      "magenta": 0.03
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.0186,
+      "high_frequency_p95": 0.0706
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#5d675b",
+        "luminance_mean": 0.392,
+        "luminance_p10": 0.109,
+        "luminance_p90": 0.727,
+        "saturation_mean": 0.199,
+        "dominants": [
+          {
+            "hex": "#212326",
+            "rgb": [
+              33,
+              35,
+              38
+            ],
+            "hue": 216.0,
+            "saturation": 0.132,
+            "value": 0.149,
+            "luminance": 0.136,
+            "weight": 0.53
+          },
+          {
+            "hex": "#576457",
+            "rgb": [
+              87,
+              100,
+              87
+            ],
+            "hue": 120.0,
+            "saturation": 0.13,
+            "value": 0.392,
+            "luminance": 0.378,
+            "weight": 0.1814
+          },
+          {
+            "hex": "#9fab99",
+            "rgb": [
+              159,
+              171,
+              153
+            ],
+            "hue": 100.0,
+            "saturation": 0.105,
+            "value": 0.671,
+            "luminance": 0.655,
+            "weight": 0.1488
+          },
+          {
+            "hex": "#344838",
+            "rgb": [
+              52,
+              72,
+              56
+            ],
+            "hue": 132.0,
+            "saturation": 0.278,
+            "value": 0.282,
+            "luminance": 0.261,
+            "weight": 0.0745
+          },
+          {
+            "hex": "#8f9970",
+            "rgb": [
+              143,
+              153,
+              112
+            ],
+            "hue": 74.6,
+            "saturation": 0.268,
+            "value": 0.6,
+            "luminance": 0.58,
+            "weight": 0.0653
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#7a7f71",
+        "luminance_mean": 0.488,
+        "luminance_p10": 0.143,
+        "luminance_p90": 0.729,
+        "saturation_mean": 0.205,
+        "dominants": [
+          {
+            "hex": "#a2b59a",
+            "rgb": [
+              162,
+              181,
+              154
+            ],
+            "hue": 102.2,
+            "saturation": 0.149,
+            "value": 0.71,
+            "luminance": 0.686,
+            "weight": 0.4834
+          },
+          {
+            "hex": "#252527",
+            "rgb": [
+              37,
+              37,
+              39
+            ],
+            "hue": 240.0,
+            "saturation": 0.051,
+            "value": 0.153,
+            "luminance": 0.146,
+            "weight": 0.1758
+          },
+          {
+            "hex": "#5e5b55",
+            "rgb": [
+              94,
+              91,
+              85
+            ],
+            "hue": 40.0,
+            "saturation": 0.096,
+            "value": 0.369,
+            "luminance": 0.358,
+            "weight": 0.1541
+          },
+          {
+            "hex": "#acc1a5",
+            "rgb": [
+              172,
+              193,
+              165
+            ],
+            "hue": 105.0,
+            "saturation": 0.145,
+            "value": 0.757,
+            "luminance": 0.731,
+            "weight": 0.118
+          },
+          {
+            "hex": "#956c66",
+            "rgb": [
+              149,
+              108,
+              102
+            ],
+            "hue": 7.7,
+            "saturation": 0.315,
+            "value": 0.584,
+            "luminance": 0.456,
+            "weight": 0.0686
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#a8acaa",
+        "luminance_mean": 0.671,
+        "luminance_p10": 0.33,
+        "luminance_p90": 0.903,
+        "saturation_mean": 0.087,
+        "dominants": [
+          {
+            "hex": "#dddde1",
+            "rgb": [
+              221,
+              221,
+              225
+            ],
+            "hue": 240.0,
+            "saturation": 0.018,
+            "value": 0.882,
+            "luminance": 0.868,
+            "weight": 0.4862
+          },
+          {
+            "hex": "#b4c4b0",
+            "rgb": [
+              180,
+              196,
+              176
+            ],
+            "hue": 108.0,
+            "saturation": 0.102,
+            "value": 0.769,
+            "luminance": 0.75,
+            "weight": 0.1769
+          },
+          {
+            "hex": "#a2a49e",
+            "rgb": [
+              162,
+              164,
+              158
+            ],
+            "hue": 80.0,
+            "saturation": 0.037,
+            "value": 0.643,
+            "luminance": 0.64,
+            "weight": 0.149
+          },
+          {
+            "hex": "#606266",
+            "rgb": [
+              96,
+              98,
+              102
+            ],
+            "hue": 220.0,
+            "saturation": 0.059,
+            "value": 0.4,
+            "luminance": 0.384,
+            "weight": 0.1411
+          },
+          {
+            "hex": "#312e30",
+            "rgb": [
+              49,
+              46,
+              48
+            ],
+            "hue": 320.0,
+            "saturation": 0.061,
+            "value": 0.192,
+            "luminance": 0.183,
+            "weight": 0.0468
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#8b8b84",
+        "luminance_mean": 0.544,
+        "luminance_p10": 0.126,
+        "luminance_p90": 0.862,
+        "saturation_mean": 0.171,
+        "dominants": [
+          {
+            "hex": "#a4b19d",
+            "rgb": [
+              164,
+              177,
+              157
+            ],
+            "hue": 99.0,
+            "saturation": 0.113,
+            "value": 0.694,
+            "luminance": 0.678,
+            "weight": 0.4721
+          },
+          {
+            "hex": "#221f24",
+            "rgb": [
+              34,
+              31,
+              36
+            ],
+            "hue": 276.0,
+            "saturation": 0.139,
+            "value": 0.141,
+            "luminance": 0.125,
+            "weight": 0.1536
+          },
+          {
+            "hex": "#dfdde1",
+            "rgb": [
+              223,
+              221,
+              225
+            ],
+            "hue": 270.0,
+            "saturation": 0.018,
+            "value": 0.882,
+            "luminance": 0.869,
+            "weight": 0.1447
+          },
+          {
+            "hex": "#625755",
+            "rgb": [
+              98,
+              87,
+              85
+            ],
+            "hue": 9.2,
+            "saturation": 0.133,
+            "value": 0.384,
+            "luminance": 0.35,
+            "weight": 0.1165
+          },
+          {
+            "hex": "#afc2ab",
+            "rgb": [
+              175,
+              194,
+              171
+            ],
+            "hue": 109.6,
+            "saturation": 0.119,
+            "value": 0.761,
+            "luminance": 0.738,
+            "weight": 0.1131
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Create quiet psychological distance: the subject feels present but inward, held by cool air and soft natural light.",
+    "contrast_strategy": "Keep contrast restrained with open shadows and diffused highlights; avoid dramatic black/white separation.",
+    "color_strategy": "Lower overall saturation and let cool greens, blue-greys, and faint mauves shape the atmosphere.",
+    "subject_strategy": "Skin should be pale and believable with a small pink/peach trace; do not glamorize or over-warm the face.",
+    "texture_strategy": "Soft film-like detail, mild grain, and gentle blur; the image should breathe rather than snap.",
+    "do_not_literalize": "Do not simply desaturate everything. Preserve subtle skin life and local color relationships while reducing emotional loudness."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Pale blue-grey or soft cyan, low saturation.",
+    "water": "Muted cool blue/green with gentle contrast.",
+    "grass": "Ash-green or cool olive, never vivid lawn green.",
+    "forest": "Layered deep green-grey with open shadows.",
+    "mountain": "Cool grey-green or blue-grey, softened by atmosphere.",
+    "skin": "Pale natural skin with slight pink/peach; protect from sickly green/cyan cast.",
+    "white_clothing": "Soft off-white with cool air, not clipped and not pure grey.",
+    "shadow": "Open cool green/blue shadow with detail retained.",
+    "highlight": "Diffused, soft, and low-glare; avoid glossy commercial highlights."
+  },
+  "compatibility": {
+    "best_for": [
+      "quiet natural-light portraits",
+      "garden portraits",
+      "overcast portraits",
+      "editorial portraits with foliage"
+    ],
+    "also_works_for": [
+      "soft interiors with window light",
+      "grassland portrait details",
+      "melancholic travel portrait"
+    ],
+    "weak_for": [
+      "bright saturated landscapes",
+      "direct-flash nightlife",
+      "commercial beauty",
+      "sports/action"
+    ],
+    "reject_for": [
+      "food color accuracy",
+      "documents",
+      "medical image",
+      "product catalog",
+      "ID photo"
+    ],
+    "requires": {
+      "has_soft_light_or_can_accept_softening": true,
+      "benefits_from_restraint": true,
+      "has_human_subject_or_intimate_object": true,
+      "needs_skin_protection": true
+    },
+    "risks": [
+      "skin turning grey-green",
+      "image becoming lifeless from over-desaturation",
+      "white clothing losing luminosity",
+      "flattening scenes that need energy"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#a1ae9b",
+      "rgb": [
+        161,
+        174,
+        155
+      ],
+      "hue": 101.1,
+      "saturation": 0.109,
+      "value": 0.682,
+      "luminance": 0.666,
+      "weight": 0.2645
+    },
+    {
+      "hex": "#242427",
+      "rgb": [
+        36,
+        36,
+        39
+      ],
+      "hue": 240.0,
+      "saturation": 0.077,
+      "value": 0.153,
+      "luminance": 0.142,
+      "weight": 0.1744
+    },
+    {
+      "hex": "#5c605b",
+      "rgb": [
+        92,
+        96,
+        91
+      ],
+      "hue": 108.0,
+      "saturation": 0.052,
+      "value": 0.376,
+      "luminance": 0.372,
+      "weight": 0.157
+    },
+    {
+      "hex": "#dcdde0",
+      "rgb": [
+        220,
+        221,
+        224
+      ],
+      "hue": 225.0,
+      "saturation": 0.018,
+      "value": 0.878,
+      "luminance": 0.867,
+      "weight": 0.1278
+    },
+    {
+      "hex": "#b1c3ac",
+      "rgb": [
+        177,
+        195,
+        172
+      ],
+      "hue": 107.0,
+      "saturation": 0.118,
+      "value": 0.765,
+      "luminance": 0.743,
+      "weight": 0.1167
+    },
+    {
+      "hex": "#919772",
+      "rgb": [
+        145,
+        151,
+        114
+      ],
+      "hue": 69.7,
+      "saturation": 0.245,
+      "value": 0.592,
+      "luminance": 0.577,
+      "weight": 0.0307
+    },
+    {
+      "hex": "#344838",
+      "rgb": [
+        52,
+        72,
+        56
+      ],
+      "hue": 132.0,
+      "saturation": 0.278,
+      "value": 0.282,
+      "luminance": 0.261,
+      "weight": 0.0293
+    },
+    {
+      "hex": "#936d69",
+      "rgb": [
+        147,
+        109,
+        105
+      ],
+      "hue": 5.7,
+      "saturation": 0.286,
+      "value": 0.576,
+      "luminance": 0.458,
+      "weight": 0.026
+    },
+    {
+      "hex": "#73886c",
+      "rgb": [
+        115,
+        136,
+        108
+      ],
+      "hue": 105.0,
+      "saturation": 0.206,
+      "value": 0.533,
+      "luminance": 0.508,
+      "weight": 0.0241
+    },
+    {
+      "hex": "#384d46",
+      "rgb": [
+        56,
+        77,
+        70
+      ],
+      "hue": 160.0,
+      "saturation": 0.273,
+      "value": 0.302,
+      "luminance": 0.282,
+      "weight": 0.0187
+    },
+    {
+      "hex": "#4e3636",
+      "rgb": [
+        78,
+        54,
+        54
+      ],
+      "hue": 0.0,
+      "saturation": 0.308,
+      "value": 0.306,
+      "luminance": 0.232,
+      "weight": 0.0156
+    },
+    {
+      "hex": "#748a8a",
+      "rgb": [
+        116,
+        138,
+        138
+      ],
+      "hue": 180.0,
+      "saturation": 0.159,
+      "value": 0.541,
+      "luminance": 0.523,
+      "weight": 0.0153
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a restrained cool-green natural-light portrait grade: low saturation, ash-green foliage, open blue-green shadows, soft off-white highlights, pale believable skin with a faint pink trace, gentle film softness and quiet atmosphere.",
+    "negative": "Do not change identity, pose, composition, clothing, objects, or setting. Do not make skin green or grey. Do not over-desaturate into lifeless monochrome or add dramatic contrast.",
+    "strength_default": 0.52,
+    "strength_range": [
+      0.3,
+      0.68
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "cool green portrait",
+      "quiet natural light",
+      "low saturation skin",
+      "ash foliage",
+      "soft editorial portrait"
+    ],
+    "embedding_text": "Quiet restrained natural-light portrait grade with low saturation, cool ash-green atmosphere, open shadows, soft off-white highlights and pale believable skin."
+  },
+  "source_images": [
+    "reference.jpg",
+    "examples/reference-2.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}

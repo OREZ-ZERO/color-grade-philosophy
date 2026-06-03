@@ -1,0 +1,54 @@
+{
+  "styles_root": "color-styles",
+  "updated_at": "2026-06-03T07:55:28Z",
+  "recent": [
+    {
+      "id": "avdidit-sunlit-pastoral-postcard",
+      "name": "Sunlit Pastoral Postcard / 晴日牧场明信片",
+      "path": "color-styles/avdidit-sunlit-pastoral-postcard",
+      "style_json": "color-styles/avdidit-sunlit-pastoral-postcard/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:099937193ab119f26219895d521090fa06f1a1f45241efe43ea07d754f168d26"
+    },
+    {
+      "id": "ueda-yoshihiko-cool-green-quiet-portrait",
+      "name": "Cool Green Quiet Portrait / 冷绿静谧肖像",
+      "path": "color-styles/ueda-yoshihiko-cool-green-quiet-portrait",
+      "style_json": "color-styles/ueda-yoshihiko-cool-green-quiet-portrait/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:d88f6ed8fa7479adcc7d6f3fde7826be20eba0df0128473e9b14101b211315cd"
+    },
+    {
+      "id": "chen-yonghua-amber-shadow-film",
+      "name": "Amber Shadow Film / 琥珀暗影胶片",
+      "path": "color-styles/chen-yonghua-amber-shadow-film",
+      "style_json": "color-styles/chen-yonghua-amber-shadow-film/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:b5339455cf042eaddaef618fb8d67d6cc6e8e862ba9ad373216bd8d23c4d1e66"
+    },
+    {
+      "id": "jade-stephens-pastel-alpine-memory",
+      "name": "Pastel Alpine Memory / 粉彩高山记忆",
+      "path": "color-styles/jade-stephens-pastel-alpine-memory",
+      "style_json": "color-styles/jade-stephens-pastel-alpine-memory/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:f0122a765304303b13f2690ee0c16d44e7c269b0a71658dd053e49d8b1a08d14"
+    },
+    {
+      "id": "deniz-sabuncu-sunlit-cobalt-portrait",
+      "name": "Sunlit Cobalt Portrait / 日照钴蓝肖像",
+      "path": "color-styles/deniz-sabuncu-sunlit-cobalt-portrait",
+      "style_json": "color-styles/deniz-sabuncu-sunlit-cobalt-portrait/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:6154aa5272ff1b7fcddec2bcef09266eff663e5c5f005fb0214e8e1f1c50ece5"
+    },
+    {
+      "id": "tang-zhixuan-botanical-soft-green",
+      "name": "Botanical Soft Green / 植物柔绿肖像",
+      "path": "color-styles/tang-zhixuan-botanical-soft-green",
+      "style_json": "color-styles/tang-zhixuan-botanical-soft-green/style.json",
+      "updated_at": "2026-06-03T07:54:08Z",
+      "source_image_sha256": "sha256:9ab7964fd55e2f449a70ec1e9469d2f2f6d001ad196cee69e18bd21676f04fa8"
+    }
+  ]
+}

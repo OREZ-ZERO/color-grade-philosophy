@@ -1,0 +1,603 @@
+{
+  "id": "tang-zhixuan-botanical-soft-green",
+  "name": "Botanical Soft Green / 植物柔绿肖像",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:9ab7964fd55e2f449a70ec1e9469d2f2f6d001ad196cee69e18bd21676f04fa8",
+  "description": "A leaf-filtered portrait grade where lush green surrounds the subject, skin and fabric stay creamy, and sunlight feels soft, private, and summery.",
+  "tags": [
+    "portrait",
+    "botanical",
+    "green",
+    "soft-light",
+    "summer",
+    "creamy-skin"
+  ],
+  "mood": [
+    "tender",
+    "private",
+    "leafy",
+    "quiet",
+    "humid"
+  ],
+  "scene_fit": [
+    "garden portrait",
+    "forest-edge portrait",
+    "summer foliage portrait",
+    "soft natural-light fashion portrait"
+  ],
+  "avoid_scenes": [
+    "dry desert",
+    "blue-sky graphic portrait",
+    "night street",
+    "documents",
+    "color-critical product"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 840,
+      "height": 1234,
+      "aspect_ratio": 0.681
+    },
+    "luminance": {
+      "mean": 0.471,
+      "p01": 0.175,
+      "p10": 0.239,
+      "p50": 0.459,
+      "p90": 0.708,
+      "p99": 0.969
+    },
+    "saturation": {
+      "mean": 0.394,
+      "median": 0.449,
+      "p90": 0.542
+    },
+    "hue_bias": {
+      "red_orange": 0.06,
+      "yellow": 0.053,
+      "green": 0.854,
+      "cyan_blue": 0.031,
+      "magenta": 0.002
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.019,
+      "high_frequency_p95": 0.0588
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#477b50",
+        "luminance_mean": 0.427,
+        "luminance_p10": 0.221,
+        "luminance_p90": 0.601,
+        "saturation_mean": 0.469,
+        "dominants": [
+          {
+            "hex": "#589658",
+            "rgb": [
+              88,
+              150,
+              88
+            ],
+            "hue": 120.0,
+            "saturation": 0.413,
+            "value": 0.588,
+            "luminance": 0.519,
+            "weight": 0.5027
+          },
+          {
+            "hex": "#336c49",
+            "rgb": [
+              51,
+              108,
+              73
+            ],
+            "hue": 143.2,
+            "saturation": 0.528,
+            "value": 0.424,
+            "luminance": 0.366,
+            "weight": 0.2368
+          },
+          {
+            "hex": "#244c39",
+            "rgb": [
+              36,
+              76,
+              57
+            ],
+            "hue": 151.5,
+            "saturation": 0.526,
+            "value": 0.298,
+            "luminance": 0.259,
+            "weight": 0.1199
+          },
+          {
+            "hex": "#1b372e",
+            "rgb": [
+              27,
+              55,
+              46
+            ],
+            "hue": 160.7,
+            "saturation": 0.509,
+            "value": 0.216,
+            "luminance": 0.19,
+            "weight": 0.0959
+          },
+          {
+            "hex": "#4e7457",
+            "rgb": [
+              78,
+              116,
+              87
+            ],
+            "hue": 134.2,
+            "saturation": 0.328,
+            "value": 0.455,
+            "luminance": 0.415,
+            "weight": 0.0447
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#6b9268",
+        "luminance_mean": 0.527,
+        "luminance_p10": 0.292,
+        "luminance_p90": 0.791,
+        "saturation_mean": 0.398,
+        "dominants": [
+          {
+            "hex": "#5b9a5b",
+            "rgb": [
+              91,
+              154,
+              91
+            ],
+            "hue": 120.0,
+            "saturation": 0.409,
+            "value": 0.604,
+            "luminance": 0.534,
+            "weight": 0.6526
+          },
+          {
+            "hex": "#346d4a",
+            "rgb": [
+              52,
+              109,
+              74
+            ],
+            "hue": 143.2,
+            "saturation": 0.523,
+            "value": 0.427,
+            "luminance": 0.37,
+            "weight": 0.1642
+          },
+          {
+            "hex": "#f3ede3",
+            "rgb": [
+              243,
+              237,
+              227
+            ],
+            "hue": 37.5,
+            "saturation": 0.066,
+            "value": 0.953,
+            "luminance": 0.932,
+            "weight": 0.0661
+          },
+          {
+            "hex": "#254e38",
+            "rgb": [
+              37,
+              78,
+              56
+            ],
+            "hue": 147.8,
+            "saturation": 0.526,
+            "value": 0.306,
+            "luminance": 0.265,
+            "weight": 0.0617
+          },
+          {
+            "hex": "#546e5d",
+            "rgb": [
+              84,
+              110,
+              93
+            ],
+            "hue": 140.8,
+            "saturation": 0.236,
+            "value": 0.431,
+            "luminance": 0.405,
+            "weight": 0.0554
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#667c66",
+        "luminance_mean": 0.461,
+        "luminance_p10": 0.251,
+        "luminance_p90": 0.702,
+        "saturation_mean": 0.31,
+        "dominants": [
+          {
+            "hex": "#5a6b5d",
+            "rgb": [
+              90,
+              107,
+              93
+            ],
+            "hue": 130.6,
+            "saturation": 0.159,
+            "value": 0.42,
+            "luminance": 0.401,
+            "weight": 0.4997
+          },
+          {
+            "hex": "#35664a",
+            "rgb": [
+              53,
+              102,
+              74
+            ],
+            "hue": 145.7,
+            "saturation": 0.48,
+            "value": 0.4,
+            "luminance": 0.351,
+            "weight": 0.1635
+          },
+          {
+            "hex": "#558d61",
+            "rgb": [
+              85,
+              141,
+              97
+            ],
+            "hue": 132.9,
+            "saturation": 0.397,
+            "value": 0.553,
+            "luminance": 0.494,
+            "weight": 0.1342
+          },
+          {
+            "hex": "#a6a495",
+            "rgb": [
+              166,
+              164,
+              149
+            ],
+            "hue": 52.9,
+            "saturation": 0.102,
+            "value": 0.651,
+            "luminance": 0.641,
+            "weight": 0.1233
+          },
+          {
+            "hex": "#2a4a39",
+            "rgb": [
+              42,
+              74,
+              57
+            ],
+            "hue": 148.1,
+            "saturation": 0.432,
+            "value": 0.29,
+            "luminance": 0.259,
+            "weight": 0.0793
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#7b9572",
+        "luminance_mean": 0.554,
+        "luminance_p10": 0.319,
+        "luminance_p90": 0.806,
+        "saturation_mean": 0.348,
+        "dominants": [
+          {
+            "hex": "#5a9a5b",
+            "rgb": [
+              90,
+              154,
+              91
+            ],
+            "hue": 120.9,
+            "saturation": 0.416,
+            "value": 0.604,
+            "luminance": 0.533,
+            "weight": 0.6545
+          },
+          {
+            "hex": "#346c4a",
+            "rgb": [
+              52,
+              108,
+              74
+            ],
+            "hue": 143.6,
+            "saturation": 0.519,
+            "value": 0.424,
+            "luminance": 0.367,
+            "weight": 0.1068
+          },
+          {
+            "hex": "#a6a295",
+            "rgb": [
+              166,
+              162,
+              149
+            ],
+            "hue": 45.9,
+            "saturation": 0.102,
+            "value": 0.651,
+            "luminance": 0.635,
+            "weight": 0.0846
+          },
+          {
+            "hex": "#f1eae0",
+            "rgb": [
+              241,
+              234,
+              224
+            ],
+            "hue": 35.3,
+            "saturation": 0.071,
+            "value": 0.945,
+            "luminance": 0.921,
+            "weight": 0.0804
+          },
+          {
+            "hex": "#596a5f",
+            "rgb": [
+              89,
+              106,
+              95
+            ],
+            "hue": 141.2,
+            "saturation": 0.16,
+            "value": 0.416,
+            "luminance": 0.398,
+            "weight": 0.0738
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Let foliage become an intimate envelope around the person, making the portrait feel hidden, tender, and close to summer air.",
+    "contrast_strategy": "Use medium contrast with leaf-shaped shadow structure; avoid hard black and avoid clinical brightness.",
+    "color_strategy": "Build the image around layered greens: yellow-green highlights, emerald midtones, and deep olive shadows, while keeping skin creamy and slightly warm.",
+    "subject_strategy": "The human face and light clothing should remain the soft brightness center; greens may surround the subject but should not contaminate skin.",
+    "texture_strategy": "Soft natural detail, mild grain, and a gentle bloom around bright skin/fabric rather than high digital sharpness.",
+    "do_not_literalize": "Do not apply green globally. The philosophy is botanical enclosure plus protected skin, not a green color wash."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Usually reduce sky importance; if visible, keep it pale and secondary.",
+    "water": "Cool subtly if present, but do not compete with foliage.",
+    "grass": "Lush soft green with moderate saturation; avoid neon lawn color.",
+    "forest": "Layered emerald/olive depth with visible texture and filtered light.",
+    "mountain": "Keep natural and understated; do not force green onto rocks.",
+    "skin": "Creamy warm skin, protected from green cast; local corrections may be needed around face and hands.",
+    "white_clothing": "Warm ivory or milk-white with soft highlight rolloff.",
+    "shadow": "Green-brown or olive, soft-edged, not black.",
+    "highlight": "Diffused leaf-filtered highlights; avoid clipped specular whites."
+  },
+  "compatibility": {
+    "best_for": [
+      "portraits surrounded by leaves",
+      "garden editorial",
+      "summer fashion in nature"
+    ],
+    "also_works_for": [
+      "picnic scenes",
+      "park portraits",
+      "soft forest paths"
+    ],
+    "weak_for": [
+      "wide landscapes where sky is the main subject",
+      "architecture",
+      "urban night",
+      "snow scenes"
+    ],
+    "reject_for": [
+      "food color accuracy",
+      "documents",
+      "medical image",
+      "product catalog"
+    ],
+    "requires": {
+      "has_green_environment": true,
+      "has_soft_or_filtered_light": true,
+      "benefits_from_intimacy": true,
+      "needs_skin_protection": true
+    },
+    "risks": [
+      "green cast on skin",
+      "foliage turning neon",
+      "over-softening facial structure",
+      "making non-botanical scenes feel artificially tinted"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#59965b",
+      "rgb": [
+        89,
+        150,
+        91
+      ],
+      "hue": 122.0,
+      "saturation": 0.407,
+      "value": 0.588,
+      "luminance": 0.521,
+      "weight": 0.3322
+    },
+    {
+      "hex": "#346a4a",
+      "rgb": [
+        52,
+        106,
+        74
+      ],
+      "hue": 144.4,
+      "saturation": 0.509,
+      "value": 0.416,
+      "luminance": 0.362,
+      "weight": 0.1841
+    },
+    {
+      "hex": "#586c5c",
+      "rgb": [
+        88,
+        108,
+        92
+      ],
+      "hue": 132.0,
+      "saturation": 0.185,
+      "value": 0.424,
+      "luminance": 0.402,
+      "weight": 0.1017
+    },
+    {
+      "hex": "#254d38",
+      "rgb": [
+        37,
+        77,
+        56
+      ],
+      "hue": 148.5,
+      "saturation": 0.519,
+      "value": 0.302,
+      "luminance": 0.263,
+      "weight": 0.085
+    },
+    {
+      "hex": "#1e372e",
+      "rgb": [
+        30,
+        55,
+        46
+      ],
+      "hue": 158.4,
+      "saturation": 0.455,
+      "value": 0.216,
+      "luminance": 0.192,
+      "weight": 0.0784
+    },
+    {
+      "hex": "#a5a695",
+      "rgb": [
+        165,
+        166,
+        149
+      ],
+      "hue": 63.5,
+      "saturation": 0.102,
+      "value": 0.651,
+      "luminance": 0.645,
+      "weight": 0.0599
+    },
+    {
+      "hex": "#92996e",
+      "rgb": [
+        146,
+        153,
+        110
+      ],
+      "hue": 69.8,
+      "saturation": 0.281,
+      "value": 0.6,
+      "luminance": 0.582,
+      "weight": 0.0414
+    },
+    {
+      "hex": "#f0eae0",
+      "rgb": [
+        240,
+        234,
+        224
+      ],
+      "hue": 37.5,
+      "saturation": 0.067,
+      "value": 0.941,
+      "luminance": 0.92,
+      "weight": 0.032
+    },
+    {
+      "hex": "#d0b29c",
+      "rgb": [
+        208,
+        178,
+        156
+      ],
+      "hue": 25.4,
+      "saturation": 0.25,
+      "value": 0.816,
+      "luminance": 0.717,
+      "weight": 0.0245
+    },
+    {
+      "hex": "#d7d0af",
+      "rgb": [
+        215,
+        208,
+        175
+      ],
+      "hue": 49.5,
+      "saturation": 0.186,
+      "value": 0.843,
+      "luminance": 0.812,
+      "weight": 0.0235
+    },
+    {
+      "hex": "#3d8352",
+      "rgb": [
+        61,
+        131,
+        82
+      ],
+      "hue": 138.0,
+      "saturation": 0.534,
+      "value": 0.514,
+      "luminance": 0.441,
+      "weight": 0.0203
+    },
+    {
+      "hex": "#96cc6c",
+      "rgb": [
+        150,
+        204,
+        108
+      ],
+      "hue": 93.8,
+      "saturation": 0.471,
+      "value": 0.8,
+      "luminance": 0.728,
+      "weight": 0.017
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a soft botanical portrait grade: layered lush greens, olive shadows, creamy protected skin, warm ivory highlights, gentle filtered-light softness, natural texture, no global green wash.",
+    "negative": "Do not change composition, identity, pose, clothing, objects, or setting. Do not tint skin green. Do not make foliage neon or over-smooth the face.",
+    "strength_default": 0.55,
+    "strength_range": [
+      0.35,
+      0.7
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "botanical portrait",
+      "soft green",
+      "creamy skin",
+      "leaf-filtered light",
+      "summer foliage"
+    ],
+    "embedding_text": "Intimate botanical portrait grade with lush layered greens, olive shadows, creamy warm skin, ivory highlights and soft filtered daylight."
+  },
+  "source_images": [
+    "reference.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}

@@ -1,0 +1,606 @@
+{
+  "id": "jade-stephens-pastel-alpine-memory",
+  "name": "Pastel Alpine Memory / 粉彩高山记忆",
+  "version": "1.0.0",
+  "created_at": "2026-06-02",
+  "source_image": "reference.jpg",
+  "source_image_sha256": "sha256:f0122a765304303b13f2690ee0c16d44e7c269b0a71658dd053e49d8b1a08d14",
+  "description": "A nostalgic travel-film landscape grade that turns highland daylight into pastel memory: muted greens, pale cyan skies, soft warm highlights, and blue-lavender mountain distance.",
+  "tags": [
+    "landscape",
+    "travel-film",
+    "pastel",
+    "alpine",
+    "nostalgic",
+    "soft-highlight"
+  ],
+  "mood": [
+    "nostalgic",
+    "airy",
+    "pastoral",
+    "romantic",
+    "wandered"
+  ],
+  "scene_fit": [
+    "mountain landscape",
+    "pastoral travel",
+    "alpine meadow",
+    "countryside with sky",
+    "clothesline or rural detail"
+  ],
+  "avoid_scenes": [
+    "night",
+    "flash portrait",
+    "high-contrast product",
+    "neon city",
+    "documentary scenes requiring neutral color"
+  ],
+  "technical_profile": {
+    "image_size": {
+      "width": 1440,
+      "height": 1800,
+      "aspect_ratio": 0.8
+    },
+    "luminance": {
+      "mean": 0.496,
+      "p01": 0.064,
+      "p10": 0.121,
+      "p50": 0.607,
+      "p90": 0.83,
+      "p99": 0.924
+    },
+    "saturation": {
+      "mean": 0.401,
+      "median": 0.215,
+      "p90": 0.903
+    },
+    "hue_bias": {
+      "red_orange": 0.208,
+      "yellow": 0.267,
+      "green": 0.357,
+      "cyan_blue": 0.168,
+      "magenta": 0.0
+    },
+    "grain_estimate": {
+      "high_frequency_mean": 0.0084,
+      "high_frequency_p95": 0.0275
+    },
+    "regions": {
+      "top": {
+        "avg_hex": "#bfc6c9",
+        "luminance_mean": 0.773,
+        "luminance_p10": 0.677,
+        "luminance_p90": 0.903,
+        "saturation_mean": 0.112,
+        "dominants": [
+          {
+            "hex": "#dfd8d2",
+            "rgb": [
+              223,
+              216,
+              210
+            ],
+            "hue": 27.7,
+            "saturation": 0.058,
+            "value": 0.875,
+            "luminance": 0.851,
+            "weight": 0.4297
+          },
+          {
+            "hex": "#a3b8c3",
+            "rgb": [
+              163,
+              184,
+              195
+            ],
+            "hue": 200.6,
+            "saturation": 0.164,
+            "value": 0.765,
+            "luminance": 0.707,
+            "weight": 0.2742
+          },
+          {
+            "hex": "#99b0bb",
+            "rgb": [
+              153,
+              176,
+              187
+            ],
+            "hue": 199.4,
+            "saturation": 0.182,
+            "value": 0.733,
+            "luminance": 0.674,
+            "weight": 0.1512
+          },
+          {
+            "hex": "#b7c3c8",
+            "rgb": [
+              183,
+              195,
+              200
+            ],
+            "hue": 197.6,
+            "saturation": 0.085,
+            "value": 0.784,
+            "luminance": 0.756,
+            "weight": 0.1305
+          },
+          {
+            "hex": "#d7c5b6",
+            "rgb": [
+              215,
+              197,
+              182
+            ],
+            "hue": 27.3,
+            "saturation": 0.153,
+            "value": 0.843,
+            "luminance": 0.783,
+            "weight": 0.0143
+          }
+        ]
+      },
+      "middle": {
+        "avg_hex": "#928b70",
+        "luminance_mean": 0.544,
+        "luminance_p10": 0.207,
+        "luminance_p90": 0.772,
+        "saturation_mean": 0.336,
+        "dominants": [
+          {
+            "hex": "#aaa499",
+            "rgb": [
+              170,
+              164,
+              153
+            ],
+            "hue": 38.8,
+            "saturation": 0.1,
+            "value": 0.667,
+            "luminance": 0.645,
+            "weight": 0.5732
+          },
+          {
+            "hex": "#cbb4a4",
+            "rgb": [
+              203,
+              180,
+              164
+            ],
+            "hue": 24.6,
+            "saturation": 0.192,
+            "value": 0.796,
+            "luminance": 0.721,
+            "weight": 0.1554
+          },
+          {
+            "hex": "#1e3411",
+            "rgb": [
+              30,
+              52,
+              17
+            ],
+            "hue": 97.7,
+            "saturation": 0.673,
+            "value": 0.204,
+            "luminance": 0.176,
+            "weight": 0.1036
+          },
+          {
+            "hex": "#234917",
+            "rgb": [
+              35,
+              73,
+              23
+            ],
+            "hue": 105.6,
+            "saturation": 0.685,
+            "value": 0.286,
+            "luminance": 0.24,
+            "weight": 0.0866
+          },
+          {
+            "hex": "#aa9365",
+            "rgb": [
+              170,
+              147,
+              101
+            ],
+            "hue": 40.0,
+            "saturation": 0.406,
+            "value": 0.667,
+            "luminance": 0.583,
+            "weight": 0.0812
+          }
+        ]
+      },
+      "bottom": {
+        "avg_hex": "#263314",
+        "luminance_mean": 0.181,
+        "luminance_p10": 0.096,
+        "luminance_p90": 0.32,
+        "saturation_mean": 0.725,
+        "dominants": [
+          {
+            "hex": "#182908",
+            "rgb": [
+              24,
+              41,
+              8
+            ],
+            "hue": 90.9,
+            "saturation": 0.805,
+            "value": 0.161,
+            "luminance": 0.137,
+            "weight": 0.8699
+          },
+          {
+            "hex": "#646156",
+            "rgb": [
+              100,
+              97,
+              86
+            ],
+            "hue": 47.1,
+            "saturation": 0.14,
+            "value": 0.392,
+            "luminance": 0.38,
+            "weight": 0.0512
+          },
+          {
+            "hex": "#4e492d",
+            "rgb": [
+              78,
+              73,
+              45
+            ],
+            "hue": 50.9,
+            "saturation": 0.423,
+            "value": 0.306,
+            "luminance": 0.283,
+            "weight": 0.0327
+          },
+          {
+            "hex": "#264417",
+            "rgb": [
+              38,
+              68,
+              23
+            ],
+            "hue": 100.0,
+            "saturation": 0.662,
+            "value": 0.267,
+            "luminance": 0.229,
+            "weight": 0.0288
+          },
+          {
+            "hex": "#9a8e6f",
+            "rgb": [
+              154,
+              142,
+              111
+            ],
+            "hue": 43.3,
+            "saturation": 0.279,
+            "value": 0.604,
+            "luminance": 0.558,
+            "weight": 0.0174
+          }
+        ]
+      },
+      "center": {
+        "avg_hex": "#858470",
+        "luminance_mean": 0.513,
+        "luminance_p10": 0.144,
+        "luminance_p90": 0.855,
+        "saturation_mean": 0.356,
+        "dominants": [
+          {
+            "hex": "#192e0b",
+            "rgb": [
+              25,
+              46,
+              11
+            ],
+            "hue": 96.0,
+            "saturation": 0.761,
+            "value": 0.18,
+            "luminance": 0.153,
+            "weight": 0.5052
+          },
+          {
+            "hex": "#ded9d3",
+            "rgb": [
+              222,
+              217,
+              211
+            ],
+            "hue": 32.7,
+            "saturation": 0.05,
+            "value": 0.871,
+            "luminance": 0.853,
+            "weight": 0.1953
+          },
+          {
+            "hex": "#a9a49b",
+            "rgb": [
+              169,
+              164,
+              155
+            ],
+            "hue": 38.6,
+            "saturation": 0.083,
+            "value": 0.663,
+            "luminance": 0.645,
+            "weight": 0.1368
+          },
+          {
+            "hex": "#cdb4a4",
+            "rgb": [
+              205,
+              180,
+              164
+            ],
+            "hue": 23.4,
+            "saturation": 0.2,
+            "value": 0.804,
+            "luminance": 0.722,
+            "weight": 0.107
+          },
+          {
+            "hex": "#d8c4b3",
+            "rgb": [
+              216,
+              196,
+              179
+            ],
+            "hue": 27.6,
+            "saturation": 0.171,
+            "value": 0.847,
+            "luminance": 0.78,
+            "weight": 0.0557
+          }
+        ]
+      }
+    }
+  },
+  "style_philosophy": {
+    "emotional_goal": "Make the landscape feel remembered rather than merely recorded: open, airy, slightly idealized, and gently sun-faded.",
+    "contrast_strategy": "Compress harsh contrast, keep highlights soft and high, and allow shadows to stay colored rather than heavy.",
+    "color_strategy": "Use pastel cyan sky, yellow-olive grass, soft warm whites, and blue/lavender atmospheric mountain distance.",
+    "subject_strategy": "Small human-made details such as fabric, fences, huts, or path lines can become warm memory anchors, while the land stays broad and calm.",
+    "texture_strategy": "Mild film grain and airy softness; avoid modern HDR clarity.",
+    "do_not_literalize": "Do not paste the exact alpine palette onto incompatible subjects. Translate the memory logic into the target scene's own sky, land, distance, and highlight anchors."
+  },
+  "semantic_transfer_rules": {
+    "sky": "Pastel cyan or pale blue with soft cloud whites; avoid deep saturated cobalt.",
+    "water": "Pale blue/cyan with low contrast, treated like atmospheric distance.",
+    "grass": "Muted yellow-green or olive meadow; preserve green identity but remove digital vibrancy.",
+    "forest": "Deep green-blue support with softened contrast, never pure black.",
+    "mountain": "Cool blue-grey or lavender-grey distance; keep rock texture but reduce harshness.",
+    "skin": "If people are present, keep subtle warm peach and low saturation.",
+    "white_clothing": "Warm sun-faded white or cream, with gentle rolloff.",
+    "shadow": "Colored blue/green shadows with detail retained.",
+    "highlight": "Soft, slightly warm, and nostalgic; avoid clipping."
+  },
+  "compatibility": {
+    "best_for": [
+      "daylight mountain landscapes",
+      "rural travel photos",
+      "pastoral scenes",
+      "open meadows with sky"
+    ],
+    "also_works_for": [
+      "beach travel with soft sky",
+      "small-town daylight scenes",
+      "outdoor lifestyle photos"
+    ],
+    "weak_for": [
+      "dense city night",
+      "studio portraits",
+      "dark interiors",
+      "high-precision product images"
+    ],
+    "reject_for": [
+      "documents",
+      "medical image",
+      "ID photo",
+      "brand/product color-critical imagery"
+    ],
+    "requires": {
+      "has_daylight": true,
+      "has_open_space_or_depth": true,
+      "benefits_from_nostalgia": true,
+      "needs_highlight_anchor": "sky, clouds, fabric, pale road, fence, flowers, or distant haze"
+    },
+    "risks": [
+      "washing out important detail",
+      "making grass too yellow",
+      "turning mountains unnaturally purple",
+      "weakening a scene that needs strong drama"
+    ]
+  },
+  "palette": [
+    {
+      "hex": "#182908",
+      "rgb": [
+        24,
+        41,
+        8
+      ],
+      "hue": 90.9,
+      "saturation": 0.805,
+      "value": 0.161,
+      "luminance": 0.137,
+      "weight": 0.3548
+    },
+    {
+      "hex": "#e0d8d2",
+      "rgb": [
+        224,
+        216,
+        210
+      ],
+      "hue": 25.7,
+      "saturation": 0.063,
+      "value": 0.878,
+      "luminance": 0.852,
+      "weight": 0.1566
+    },
+    {
+      "hex": "#a3a8a6",
+      "rgb": [
+        163,
+        168,
+        166
+      ],
+      "hue": 156.0,
+      "saturation": 0.03,
+      "value": 0.659,
+      "luminance": 0.654,
+      "weight": 0.1406
+    },
+    {
+      "hex": "#a4b8c3",
+      "rgb": [
+        164,
+        184,
+        195
+      ],
+      "hue": 201.3,
+      "saturation": 0.159,
+      "value": 0.765,
+      "luminance": 0.708,
+      "weight": 0.0836
+    },
+    {
+      "hex": "#cbb4a4",
+      "rgb": [
+        203,
+        180,
+        164
+      ],
+      "hue": 24.6,
+      "saturation": 0.192,
+      "value": 0.796,
+      "luminance": 0.721,
+      "weight": 0.053
+    },
+    {
+      "hex": "#b7c3c9",
+      "rgb": [
+        183,
+        195,
+        201
+      ],
+      "hue": 200.0,
+      "saturation": 0.09,
+      "value": 0.788,
+      "luminance": 0.756,
+      "weight": 0.0431
+    },
+    {
+      "hex": "#254918",
+      "rgb": [
+        37,
+        73,
+        24
+      ],
+      "hue": 104.1,
+      "saturation": 0.671,
+      "value": 0.286,
+      "luminance": 0.242,
+      "weight": 0.0401
+    },
+    {
+      "hex": "#636358",
+      "rgb": [
+        99,
+        99,
+        88
+      ],
+      "hue": 60.0,
+      "saturation": 0.111,
+      "value": 0.388,
+      "luminance": 0.385,
+      "weight": 0.0331
+    },
+    {
+      "hex": "#a79267",
+      "rgb": [
+        167,
+        146,
+        103
+      ],
+      "hue": 40.3,
+      "saturation": 0.383,
+      "value": 0.655,
+      "luminance": 0.578,
+      "weight": 0.0302
+    },
+    {
+      "hex": "#d7c5b5",
+      "rgb": [
+        215,
+        197,
+        181
+      ],
+      "hue": 28.2,
+      "saturation": 0.158,
+      "value": 0.843,
+      "luminance": 0.783,
+      "weight": 0.03
+    },
+    {
+      "hex": "#53502a",
+      "rgb": [
+        83,
+        80,
+        42
+      ],
+      "hue": 55.6,
+      "saturation": 0.494,
+      "value": 0.325,
+      "luminance": 0.305,
+      "weight": 0.0245
+    },
+    {
+      "hex": "#b38a2b",
+      "rgb": [
+        179,
+        138,
+        43
+      ],
+      "hue": 41.9,
+      "saturation": 0.76,
+      "value": 0.702,
+      "luminance": 0.548,
+      "weight": 0.0105
+    }
+  ],
+  "model_prompt": {
+    "positive": "Apply a nostalgic pastel travel-film grade: pale cyan sky, muted yellow-olive meadow greens, soft warm whites, blue-grey or slight lavender mountain distance, retained shadow detail, gentle grain and airy highlight rolloff.",
+    "negative": "Do not change composition, weather, season, objects, people, or camera angle. Do not oversaturate the sky, make grass neon, or erase landscape texture.",
+    "strength_default": 0.6,
+    "strength_range": [
+      0.4,
+      0.78
+    ],
+    "preserve_content_priority": "very high"
+  },
+  "retrieval": {
+    "keywords": [
+      "pastel mountain",
+      "travel film",
+      "nostalgic landscape",
+      "soft cyan sky",
+      "yellow olive meadow"
+    ],
+    "embedding_text": "Airy nostalgic travel-film landscape grade with pastel cyan sky, yellow-olive meadow, soft warm highlights, blue-grey mountain distance and gentle grain."
+  },
+  "source_images": [
+    "reference.jpg",
+    "examples/reference-2.jpg"
+  ],
+  "updated_at": "2026-06-02"
+}
